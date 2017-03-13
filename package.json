@@ -1,0 +1,15 @@
+{
+  "name": "slackclient",
+  "version": "0.0.1",
+  "description": "A wrapper for the RTM client",
+  "main": "demo.js",
+  "dependencies": {
+          "@slack/client": ">= 1.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node demo.js"
+  },
+  "author": "Franco Trimboli",
+  "license": "ISC"
+}
